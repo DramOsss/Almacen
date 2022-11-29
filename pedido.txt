@@ -1,3 +1,4 @@
-100 tuercas
-10 matillos
-250 clavos
+100 Tuerca
+10 Martillos
+250 Clavos
+50 llaves #12
